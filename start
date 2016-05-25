@@ -1,0 +1,4 @@
+#cabal run
+#stack exec mini
+stack build
+halive src/Main.hs
